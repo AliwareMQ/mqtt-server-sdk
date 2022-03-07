@@ -9,13 +9,13 @@ import (
 )
 
 const (
-	accessKey    = "xxx"
-	secretKey    = "xxx"
-	instanceId   = "xxx"
-	domain       = "xxx"
-	port         = 5672
-	firstTopic   = "xx"
-	gid          = "xx"
+	accessKey = "xxx"
+	secretKey = "xxx"
+	instanceId ="xxx"
+	domain = "xxxx"
+	port = 5672
+	firstTopic = "xxx"
+	gid = "xxxx"
 )
 
 type MessageProcessor struct{}
@@ -45,7 +45,7 @@ func main() {
 
 	var mqttTopic bytes.Buffer
 	mqttTopic.WriteString(firstTopic)
-	mqttTopic.WriteString("/c1")
+	mqttTopic.WriteString("/t2")
 
 	go func() {
 		for i := 0; i < 100; i++ {
