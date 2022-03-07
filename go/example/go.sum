@@ -1,0 +1,6 @@
+github.com/AliwareMQ/mqtt-server-sdk/go/server-sdk v0.0.0-20220307030533-c0d21ed5db0f h1:njAZ8RI3Tm0PUbo4udM28GvQTFV1y29WnnfYZZX3NBg=
+github.com/AliwareMQ/mqtt-server-sdk/go/server-sdk v0.0.0-20220307030533-c0d21ed5db0f/go.mod h1:cvPHvW9De8wH3smCvGylHz2uVVLGGo53WrwXZ4Mu7Xo=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
